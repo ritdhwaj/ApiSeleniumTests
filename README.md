@@ -1,12 +1,13 @@
 # ApiSeleniumTests
 # Single Test Suite to execute APi and Selenium Test Cases Using Seleium testng and restassured
 Project created to run some sample test cases
+* BlazeDemo UITest and API tests are present inside: src/test/java/com/crm/qa/testcases/
 
-Dependency
-Java
-Maven
+## Dependency
+  - Java
+  - Maven
 
-###libraries used
+## libraries used
 Selenium
 TestNG
 log4j
